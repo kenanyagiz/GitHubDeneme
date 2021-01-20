@@ -6,7 +6,7 @@ namespace GitHubDeneme
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("GitHub Deneme!");
+            Console.WriteLine("GitHub Deneme !");
         }
     }
 }
